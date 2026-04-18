@@ -1,83 +1,59 @@
-<p align="center">
-  <img src="git_cat.gif" width="300" alt="Git Cat" />
-</p>
-
-<h1 align="center">Hi, I'm Ander!</h1>
-
-<p align="center">
-  💻 I'm a backend developer in progress, always learning and building cool things.
-</p>
-
-<br>
-
 <div align="center">
-  <h2>🧠 My Comprehensive Tech Stack</h2>
-  
-  <table>
-    
-    <tr>
-      <td align="center">
-        <br>
-        <img src="gato_primero.jpg" width="350" alt="Gato Arriba" />
-        <br><br>
-      </td>
-    </tr>
-    
-    <tr>
-      <td align="center">
-        <h3>🔷 Programming Languages</h3>
-        <img src="https://skillicons.dev/icons?i=php,js,python,java,ts,html" alt="Languages Row 1" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=css,kotlin" alt="Languages Row 2" />
-        <br><br>
-      </td>
-    </tr>
 
-    <tr>
-      <td align="center">
-        <h3>🔷 Frameworks & Libraries</h3>
-        <img src="https://skillicons.dev/icons?i=laravel,spring,django,flutter,nextjs,react" alt="Frameworks Row 1" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,tailwind" alt="Frameworks Row 2" />
-        <br><br>
-      </td>
-    </tr>
+<table>
+<tr><td align="center">
 
-    <tr>
-      <td align="center">
-        <h3>🔷 Databases</h3>
-        <img src="https://skillicons.dev/icons?i=sqlite,mongo,mysql,postgres" alt="Databases" />
-        <br><br>
-      </td>
-    </tr>
+<h1>👋 Hi, I'm Ander!</h1>
 
-    <tr>
-      <td align="center">
-        <h3>🔷 Tools & Cloud</h3>
-        <img src="https://skillicons.dev/icons?i=figma,notion,postman,git,docker,aws" alt="Tools Row 1" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=arduino" alt="Tools Row 2" />
-        <br><br>
-      </td>
-    </tr>
+<img src="git_cat.gif" width="220" alt="Git Cat" />
 
-    <tr>
-      <td align="center">
-        <h3>🎯 Currently Learning</h3>
-        <img src="https://skillicons.dev/icons?i=swift,go,nestjs,cpp,cs,angular" alt="Learning Row 1" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=astro" alt="Learning Row 2" />
-        <br><br>
-      </td>
-    </tr>
+</td></tr>
+</table>
 
-    <tr>
-      <td align="center">
-        <br>
-        <img src="gato_ultimo.gif" width="300" alt="Gato Abajo" />
-        <br><br>
-      </td>
-    </tr>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=12&section=header" width="100%"/>
 
-  </table>
+<table>
+<tr><td>
+
+<h2 align="center">🧠 ⚙️ My Tech Stack</h2>
+
+🔷 **Programming Languages**<br>
+<img src="https://skillicons.dev/icons?i=php,js,python,java,ts,html,css,kotlin" /><br><br>
+
+🔷 **Frameworks & Libraries**<br>
+<img src="https://skillicons.dev/icons?i=laravel,spring,django,flutter,nextjs,react,nodejs,tailwind" /><br><br>
+
+🔷 **Databases**<br>
+<img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres" /><br><br>
+
+🔷 **Tools & Cloud**<br>
+<img src="https://skillicons.dev/icons?i=figma,notion,postman,git,docker,aws,arduino" />
+
+</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=12&section=header" width="100%"/>
+
+<table>
+<tr><td>
+
+<h2 align="center">🎯 📚 Currently Learning</h2>
+
+<img src="https://skillicons.dev/icons?i=swift,go,nestjs,cpp,cs,angular,astro" />
+
+</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=12&section=header" width="100%"/>
+
+<table>
+<tr><td align="center">
+
+<h2>🐱 Projects & More</h2>
+
+<img src="gato_primero.jpg" width="220" alt="Gato" /><br>
+
+</td></tr>
+</table>
+
 </div>
