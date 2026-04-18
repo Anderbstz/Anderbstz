@@ -26,7 +26,9 @@
     <tr>
       <td align="center">
         <h3>🔷 Programming Languages</h3>
-        <img src="https://skillicons.dev/icons?i=php,js,python,java,ts,html,css,kotlin&perline=6" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=php,js,python,java,ts,html" alt="Languages Row 1" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=css,kotlin" alt="Languages Row 2" />
         <br><br>
       </td>
     </tr>
@@ -34,7 +36,9 @@
     <tr>
       <td align="center">
         <h3>🔷 Frameworks & Libraries</h3>
-        <img src="https://skillicons.dev/icons?i=laravel,spring,django,flutter,nextjs,react,nodejs,tailwind&perline=6" alt="Frameworks" />
+        <img src="https://skillicons.dev/icons?i=laravel,spring,django,flutter,nextjs,react" alt="Frameworks Row 1" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,tailwind" alt="Frameworks Row 2" />
         <br><br>
       </td>
     </tr>
@@ -42,7 +46,7 @@
     <tr>
       <td align="center">
         <h3>🔷 Databases</h3>
-        <img src="https://skillicons.dev/icons?i=sqlite,mongo,mysql,postgres&perline=6" alt="Databases" />
+        <img src="https://skillicons.dev/icons?i=sqlite,mongo,mysql,postgres" alt="Databases" />
         <br><br>
       </td>
     </tr>
@@ -50,7 +54,9 @@
     <tr>
       <td align="center">
         <h3>🔷 Tools & Cloud</h3>
-        <img src="https://skillicons.dev/icons?i=figma,notion,postman,git,docker,aws,arduino&perline=6" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=figma,notion,postman,git,docker,aws" alt="Tools Row 1" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=arduino" alt="Tools Row 2" />
         <br><br>
       </td>
     </tr>
@@ -58,7 +64,9 @@
     <tr>
       <td align="center">
         <h3>🎯 Currently Learning</h3>
-        <img src="https://skillicons.dev/icons?i=swift,go,nestjs,cpp,cs,angular,astro&perline=6" alt="Learning" />
+        <img src="https://skillicons.dev/icons?i=swift,go,nestjs,cpp,cs,angular" alt="Learning Row 1" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=astro" alt="Learning Row 2" />
         <br><br>
       </td>
     </tr>
